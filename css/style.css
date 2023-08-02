@@ -112,7 +112,7 @@ body {
   transition: 0.5s;
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
   background-color: var(--cor-hover);
   transition: 0.5s;
   scale: 103%;
